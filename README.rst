@@ -44,6 +44,9 @@ of the modern world. OSCII is:
   *two years* since its proposal.
 
 
+.. _Semantic Indentation Control: https://github.com/pyrotelekinetic/SIC
+
+
 Encoding
 ========
 
@@ -185,3 +188,6 @@ Code           Name                  Comment        ASCII
 
 Bytes with values above 0x7F are left for usecase-specific extensions and should
 be avoided when encoding documents or messages meant to be shared.
+
+
+.. _SIC: https://github.com/pyrotelekinetic/SIC
