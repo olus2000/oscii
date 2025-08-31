@@ -4,6 +4,8 @@
 
 Specification for the OSCII standard.
 
+.. image:: font.png
+
 
 Overview
 ========
