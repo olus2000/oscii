@@ -1,5 +1,5 @@
 ================================================================================
-                Olus2000 Standard Code for Information Exchange
+              Olus2000 Standard Code for Information Interchange
 ================================================================================
 
 Specification for the OSCII standard.
