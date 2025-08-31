@@ -198,6 +198,7 @@ collisions or preprocess the decoded content to remove them.
 
 
 .. _SIC: https://github.com/pyrotelekinetic/SIC
+.. _Private Use Area: https://www.unicode.org/charts/PDF/UE000.pdf
 
 
 Implementation
