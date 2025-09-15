@@ -56,6 +56,7 @@ The following table describes the meaning of OSCII codes. For some characters
 their closest ASCII equivalents have been provided. For all characters their
 recommended Unicode encoding have been provided.
 
+
 ==== ======================= ====================== ===== =======
 Code           Name                  Comment        ASCII Unicode
 ==== ======================= ====================== ===== =======
@@ -73,14 +74,14 @@ Code           Name                  Comment        ASCII Unicode
 0x0B APOSTROPHE                                     0x27  0x27
 0x0C QUOTATION MARK                                 0x22  0x22
 0x0D BACKTICK                                       0x60  0x60
-0x0E OCTOTHORPE                                     0x23  0x23
-0x0F CURRENCY                                       0x24  0x24
-0x10 AT                                             0x40  0x40
-0x11 ESCAPE                                         0x5C  0x5C
-0x12 UNDERSCORE                                     0x5F  0x5F
-0x13 CROSS                                          0x78  0x78
-0x14 LARGE BALLOON                                  0x51  0x51
-0x15 SMALL BALLOON                                  0x71  0x71
+0x0E LARGE BALLOON                                  0x51  0x51
+0x0F SMALL BALLOON                                  0x71  0x71
+0x10 OCTOTHORPE                                     0x23  0x23
+0x11 CURRENCY                                       0x24  0x24
+0x12 AT                                             0x40  0x40
+0x13 ESCAPE                                         0x5C  0x5C
+0x14 UNDERSCORE                                     0x5F  0x5F
+0x15 EMOJI                   For expressing emotion       0x1F97A
 0x16 DIGIT UNTEN                                          0xF8F6
 0x17 DIGIT UNNINE                                         0xF8F7
 0x18 DIGIT UNEIGHT                                        0xF8F8
@@ -102,27 +103,27 @@ Code           Name                  Comment        ASCII Unicode
 0x28 DIGIT EIGHT                                    0x38  0x38
 0x29 DIGIT NINE                                     0x39  0x39
 0x2A DIGIT TEN                                      0x58  0x58
-0x2B ARROW LEFT                                     0x3C  0x3C
-0x2C ARROW DOWN                                     0x76  0x76
-0x2D ARROW UP                                       0x5E  0x5E
-0x2E ARROW RIGHT                                    0x3E  0x3E
-0x2F ADDITION SIGN                                  0x2B  0x2B
-0x30 SUBTRACTION SIGN                               0x2D  0x2D
-0x31 MULTIPLICATION SIGN                            0x2A  0x2A
-0x32 DIVISION SIGN                                  0x2F  0x2F
-0x33 MODULO SIGN                                    0x25  0x25
-0x34 EQUALITY SIGN                                  0x3D  0x3D
-0x35 AND SIGN                                       0x26  0x26
-0x36 OR SIGN                                        0x7C  0x7C
-0x37 NOT SIGN                                       0x7E  0x7E
-0x38 ROMAN NUMERAL FIVE      The only one missing   0x56  0x56
-0x39 OPEN PARENTHESIS                               0x28  0x28
-0x3A CLOSE PARENTHESIS                              0x29  0x29
-0x3B OPEN BRACKET                                   0x5B  0x5B
-0x3C CLOSE BRACKET                                  0x5D  0x5D
-0x3D OPEN BRACE                                     0x7B  0x7B
-0x3E CLOSE BRACE                                    0x7D  0x7D
-0x3F EMOJI                   For expressing emotion       0x1F97A
+0x2B CROSS                                          0x78  0x78
+0x2C ADDITION SIGN                                  0x2B  0x2B
+0x2D SUBTRACTION SIGN                               0x2D  0x2D
+0x2E MULTIPLICATION SIGN                            0x2A  0x2A
+0x2F DIVISION SIGN                                  0x2F  0x2F
+0x30 MODULO SIGN                                    0x25  0x25
+0x31 EQUALITY SIGN                                  0x3D  0x3D
+0x32 AND SIGN                                       0x26  0x26
+0x33 OR SIGN                                        0x7C  0x7C
+0x34 NOT SIGN                                       0x7E  0x7E
+0x35 ROMAN NUMERAL FIVE      The only one missing   0x56  0x56
+0x36 OPEN PARENTHESIS                               0x28  0x28
+0x37 CLOSE PARENTHESIS                              0x29  0x29
+0x38 OPEN BRACKET                                   0x5B  0x5B
+0x39 CLOSE BRACKET                                  0x5D  0x5D
+0x3A OPEN BRACE                                     0x7B  0x7B
+0x3B CLOSE BRACE                                    0x7D  0x7D
+0x3C ARROW LEFT                                     0x3C  0x3C
+0x3D ARROW DOWN                                     0x76  0x76
+0x3E ARROW UP                                       0x5E  0x5E
+0x3F ARROW RIGHT                                    0x3E  0x3E
 0x40 POLISH SMALL LETTER A                          0x61  0x61
 0x41 POLISH SMALL LETTER Ą                                0x105
 0x42 POLISH SMALL LETTER B                          0x62  0x62

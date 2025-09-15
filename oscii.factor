@@ -10,11 +10,11 @@ SINGLETON: oscii
 
 
 CONSTANT: oscii>unicode-map
-$[ { "\n\t\u00F32A\u00F32B .,!?:;'\"`#$"
-     "@\\_xQq\u00F8F6\u00F8F7"
+$[ { "\n\t\u00F32A\u00F32B .,!?:;'\"`Qq"
+     "#$@\\_🥺\u00F8F6\u00F8F7"
      "\u00F8F8\u00F8F9\u00F8FA\u00F8FB"
      "\u00F8FC\u00F8FD\u00F8FE\u00F8FF"
-     "0123456789X<v^>+-*/%=&|~V()[]{}🥺"
+     "0123456789Xx+-*/%=&|~V()[]{}<v^>"
      "aąbcćdeęfghijklłmnńoóprsśtuwyzźż"
      "AĄBCĆDEĘFGHIJKLŁMNŃOÓPRSŚTUWYZŹŻ" } concat
    <enumerated> >biassoc ]
